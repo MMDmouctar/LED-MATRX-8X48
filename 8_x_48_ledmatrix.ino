@@ -1,5 +1,4 @@
 
-
 char msg[] ="ELECTRONICS DEMON SUBSCRIBE ";//t here.
 int scrollspeed=10;//Set the scroll speed ( lower=faster)
 
